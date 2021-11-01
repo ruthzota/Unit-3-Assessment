@@ -1,0 +1,12 @@
+How does the internet work?
+
+The internet works through computers/technology that connects with internet via cables, wires, radio waves and etc. Data is send over useing these networking infrastrutures is translated into pulsed of lights known at "bits" and interprated by the receiver. 
+
+Information is over computers in small segments called packet, that contains data and information about the data. Data is send over the internet in packets, that are translated into bits. The packets are routed to their destination using routers and switches. The packets arrive at their destination and the device display the data.
+
+
+
+What happens when you click on a link?
+
+When you click on a link, the procees of DNS occurs. The link is mapped to  a IP address. A request is made for files that allows the brower to display pages within the link. The browser sends a GET or POST request, requesting information to let the servers know what you need. If there's an issue with the request, you get a negative response (404 Not found). If the request is right, the server sends renders the pages we requested.
+  

@@ -1,0 +1,106 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  font-family: "Open Sans", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+ul {
+	padding-left: 10px;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 200px;
+	float:right;
+	margin-right: 5px
+	padding: 20px;
+}
+
+  div.gallery {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	overflow: hidden;
+
+
+	
+  }
+  
+  div.gallery:hover {
+	border: 1px solid #777;
+  }
+  
+  div.gallery img {
+	width: 100%;
+	height: auto;
+  }
+
+  
+  footer { 
+	background-color: #FFEEF3;
+	width: 200%;
+	height: 20px;
+  	padding: 30px 30px 20px 30px;
+  }
+
+ .faverite-button {
+	background-color: yellow;
+	border: 2px;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 16px;
+	padding: 15px;
+	position: relative;
+
+  }
+
+
+.header-img {
+	width: 150%;
+	height: 400px;
+	background: url('DowntownDetroit.jpeg');
+	background-size: cover;
+  }
+
+
+
+
